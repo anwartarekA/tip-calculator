@@ -21,3 +21,4 @@ Total bill (including tip)
 ###### 🔁 Reset button to clear all inputs
 
 ###### 📦 Clean UI with a styled rectangle output section
+## [Run](https://tip-calculator-sigma-sepia.vercel.app/)😍
